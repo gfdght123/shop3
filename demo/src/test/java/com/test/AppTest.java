@@ -27,7 +27,7 @@ public class AppTest
      */
     public static Test suite()
     {
-    	
+    	//快捷键哦
         return new TestSuite( AppTest.class );
     }
 
